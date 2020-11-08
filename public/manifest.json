@@ -1,0 +1,38 @@
+{
+    "short_name": "Speakly",
+    "name": "Speakly: asistente de trabajo",
+    "icons": [
+        {
+            "src": "/images/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icon-144.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icon-92.png",
+            "type": "image/png",
+            "sizes": "92X92",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF"
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 7032645d001b8cb45aeaa0836b71d091fb0fa1b0
